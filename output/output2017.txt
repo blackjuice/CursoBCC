@@ -1,0 +1,96 @@
+RELATÓRIO DE DISCIPLINAS CURSADAS
+---------------------------------
+
+OBRIGATÓRIAS:
+. . . . . . .
+MAC0101 Integração na Universidade e na Profissão, 1o. sem, 2+0
+MAC0105 Fundamentos de Matemática para a Computação, 1o. sem, 4+0
+MAC0110 Introdução à Computação, 1o. sem, 4+0
+MAC0329 Álgebra Booleana e Circuitos Digitais, 1o. sem, 4+0
+MAT2453 Cálculo Diferencial e Integral I, 1o. sem, 6+0
+MAT0112 Vetores e Geometria, 1o. sem, 4+0
+MAC0121 Algoritmos e Estruturas de Dados I, 2o. sem, 4+0
+MAC0216 Técnicas de Programação I, 2o. sem, 4+2
+MAC0239 Introdução à Lógica e Verificação de Programas, 2o. sem, 4+0
+MAE0119 Introdução à Probabilidade e à Estatística, 2o. sem, 6+0
+MAT2454 Cálculo Diferencial e Integral II, 2o. sem, 4+0
+MAT0122 Álgebra Linear I, 2o. sem, 4+0
+MAC0102 Caminhos no Bacharelado em Ciência da Computação, 3o. sem, 2+0
+MAC0323 Algoritmos e Estruturas de Dados II, 3o. sem, 4+2
+MAT0236 Funções Diferenciáveis e Séries, 3o. sem, 4+0
+MAC0316 Conceitos Fundamentais de Linguagens de Programação, 4o. sem, 4+0
+FLC0474 Língua Portuguesa, 7o. sem, 3+0
+
+Tecle ENTER para continuar.
+GERAM DISPENSAS:
+. . . . . . . . .
+MAC0211 Laboratório de Programação I, 4+2, dispensa MAC0216
+MAC0122 Princípios de Desenvolvimento de Algoritmos, 4+0, dispensa MAC0121
+MAE0121 Introdução à Probabilidade e à Estatística I, 4+0, dispensa MAC0119?
+MAE0212 Introdução à Probabilidade e à Estatística II, 4+0, dispensa MAC0119?
+MAT0111 Cálculo Diferencial e Integral I, 6+0, dispensa MAT2453
+MAT0121 Cálculo Diferencial e Integral II, 6+0, dispensa MAT2454
+MAT0138 Álgebra I para Computação, 4+0, dispensa MAC0105
+MAT0139 Álgebra Linear para Computação, 6+0, dispensa MAT0112+MAT0122
+4310137 Física II, 6+0, dispensa 4302112
+
+Tecle ENTER para continuar.
+OPTATIVAS DE CIÊNCIAS:
+. . . . . . . . . . . . . .
+4302112 Física II, 6+0
+
+Tecle ENTER para continuar.
+OPTATIVAS DE ESTATÍSTICA/PROBABILIDADE:
+. . . . . . . . . . . . . .
+MAE0228 Noções de Probabilidade e Processos Estocásticos, 4+0
+
+Tecle ENTER para continuar.
+OPTATIVAS ELETIVAS:
+. . . . . . . . . . 
+MAC0242 Laboratório de Programação II, 4+2
+MAC0342 Laboratório de Programação eXtrema, 4+2
+MAC0426 Sistemas de Bancos de Dados, 4+0
+MAC0431 Introdução à Computação Paralela e Distribuída, 4+0
+4310126 Física I, 6+0
+
+Tecle ENTER para continuar.
+OPTATIVAS LIVRES:
+. . . . . . . . . . 
+MAC0335 Leitura Dramática, 3+0
+
+Tecle ENTER para continuar.
+DISCIPLINAS NAO ENCONTRADAS:
+. . . . . . . . . . . . . . .
+
+
+Tecle ENTER para continuar.
+RELATÓRIO DE DISCIPLINAS A SEREM CURSADAS NO CURRÍCULO 45052
+============================================================
+
+OBRIGATÓRIAS:
+. . . . . . .
+MAC0210 Laboratório de Métodos Numéricos, 3o. sem, 4+0
+MAC0338 Análise de Algoritmos, 4o. sem, 4+0
+MAC0422 Sistemas Operacionais, 4o. sem, 4+2
+MAC0350 Introdução ao Desenvolvimento de Sistemas de Software, 5o. sem, 4+2
+MAC0499 Trabalho de Formatura Supervisionado, 7o. sem, 0+16
+
+OPTATIVAS CIÊNCIAS:
+. . . . . . . . . .
+Número mínimo de créditos que devem ser cursados: 4
+Número de créditos cursados:  6
+Disciplinas: 4302112 
+
+OPTATIVAS ESTATÍSTICA/PROBABILIDADE:
+. . . . . . . . . . . . . . . . . . 
+Número mínimo de créditos que devem ser cursados: 4
+Número de créditos cursados:  4
+Disciplinas: MAE0228 
+
+OPTATIVAS ELETIVAS E LIVRES:
+. . . . . .  . . . 
+Número mínimo de créditos que devem ser cursados: 76
+Número de créditos cursados:  29
+Disciplinas: 4310126 MAC0342 MAC0426 MAC0431 MAC0242 MAC0335 
+
+Não deixe de curtir a nossa página no feiçebuqui.
